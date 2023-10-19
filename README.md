@@ -13,3 +13,6 @@ npm install nodemon
 ```bash
 nodemon app.js
 ```
+
+## Open Browser
+### localhost:3001
