@@ -14,5 +14,7 @@ npm install nodemon
 nodemon app.js
 ```
 
-## Open Browser
-### localhost:3001
+
+## Browser Url Paths
+### http://localhost:3001/Tracking_parcel
+### http://localhost:3001//Generate_Token
